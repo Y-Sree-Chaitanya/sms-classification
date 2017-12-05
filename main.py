@@ -51,7 +51,7 @@ def load_config(filename):
 
 class DemoHandler(tornado.web.RequestHandler):
     def get(self):
-        self.write("Hello world! Health predictor app here!")
+        self.write("Hello world! SMS predictor app here!")
         logger_info("Demo Handler GET Request")
 
     def post(self):
