@@ -1,0 +1,11 @@
+Heroku_app_steps.txt
+
+#Python compiled files
+**/.pyc
+.pyc
+*.pyc
+
+# IDEs
+.idea/
+jsconfig.json
+.vscode/
