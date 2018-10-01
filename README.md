@@ -1,7 +1,6 @@
 # README #
 
-main.py python file is the entry point of the tornado web server.
+## What does this repositiory contain ?
+* A tornado application that exposes an endpoint to classify text (sms) sent as spam, ham or notification.
 
-### What is this repository for? ###
 
-* Classifying an SMS into a category - ham/spam/notification
